@@ -839,3 +839,11 @@ a:active {
     height: 200px;
     border-radius: 101px;
 }
+
+.item1 {
+    color: #edf0f2;
+}
+
+.item1:hover {
+    color: #25c933;
+}
